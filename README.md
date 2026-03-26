@@ -26,7 +26,7 @@ A well-defined IR process, such as the **NIST Incident Response Lifecycle**, pro
 | Room Name | Description | Link |
 |-----------|-------------|------|
 | Incident Response Process | Practiced the NIST Incident Response lifecycle steps on a compromised Windows workstation | [View Room](https://tryhackme.com/room/incidentresponseprocess?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68664c9f11e540f46dd539e2) |
-| Incident Response Process | Practiced the NIST Incident Response lifecycle steps on a compromised Windows workstation | [IR Playbooks](https://tryhackme.com/room/irplaybooks?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68664c9f11e540f46dd539e2) |
+| IR Playbooks | Practiced the NIST Incident Response lifecycle steps on a compromised Windows workstation | [View room](https://tryhackme.com/room/irplaybooks?utm_campaign=social_share&utm_medium=social&utm_content=share-completed-room&utm_source=copy&sharerId=68664c9f11e540f46dd539e2) |
 ### Let's Defend
 
 

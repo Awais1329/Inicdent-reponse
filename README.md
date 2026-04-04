@@ -19,7 +19,7 @@ A well-defined IR process, such as the **NIST Incident Response Lifecycle**, pro
 
 ---
 
-## Practice Rooms
+## Practice Rooms 
 
 ### TryHackMe & Let's Defend
 
